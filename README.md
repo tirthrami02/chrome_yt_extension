@@ -1,4 +1,4 @@
-# chrome_yt_extension
+# Youtube Book Mark Extension
 
 This is extension for youtube website.
 This will only work in chromuim based browsers.
